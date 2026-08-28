@@ -1,0 +1,6 @@
+{
+  "name": "Singapore Weather Intelligence",
+  "description": "Singapore-centric weather intelligence MVP delivering hyper-local outdoor activity recommendations, 2-hour nowcasts, and microclimate insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
